@@ -11,7 +11,7 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 ### HEROKU : for deploying a web application
 ### tmdb3api : API for showing Movie details
 
-![image](img/6.webp)
+![image](img/7.png)
 
 # Link to the working application 
 CHECK OUT-> https://vkmvi.herokuapp.com/
