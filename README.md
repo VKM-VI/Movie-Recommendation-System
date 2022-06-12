@@ -1,7 +1,7 @@
 # MOVIE RECOMMENDATION SYSTEM
 We will be creating a content-based recommender.
 # Content-Based Movie Recommendation Systems:
-![image](img/1_BME1JjIlBEAI9BV5pOO5Mg.png)
+![image](img/7.png)
 
 Content-based methods are based on the similarity of movie attributes. Using this type of recommender system, if a user watches one movie, similar movies are recommended. For example, if a user watches a comedy movie starring Adam Sandler, the system will recommend them movies in the same genre or starring the same actor, or both. With this in mind, the input for building a content-based recommender system is movie attributes.
 # Tech used
@@ -11,7 +11,7 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 ### HEROKU : for deploying a web application
 ### tmdb3api : API for showing Movie details
 
-![image](img/7.png)
+![image](img/6.png)
 
 # Link to the working application 
 CHECK OUT-> https://vkmvi.herokuapp.com/
