@@ -14,9 +14,13 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 CHECK OUT-> https://vkmvi.herokuapp.com/
 # Snapshots of the application
 ![image](img/Screenshot (33).png)
+...
 ![image](img/Screenshot (36).png)
+...
 ![image](img/Screenshot (37).png)
+..
 ![image](img/Screenshot (38).png)
+..
 
 # RUN STREAMLIT COMMAND ON YOUR TERMINAL
 Command to run the web application on your system is streamlit run app.py
